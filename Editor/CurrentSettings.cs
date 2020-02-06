@@ -13,5 +13,8 @@ namespace com.unity.xr.test.runtimesettings
         public bool GraphicsJobs;
         public string SimulationMode;
         public string ColorSpace;
+        public string PluginVersion;
+        public string XrsdkRevision;
+        public string XrManagementRevision;
     }
 }
