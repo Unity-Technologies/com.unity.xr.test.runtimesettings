@@ -16,5 +16,7 @@ namespace com.unity.xr.test.runtimesettings
         public string PluginVersion;
         public string XrsdkRevision;
         public string XrManagementRevision;
+        public string DeviceRuntimeVersion;
+        public string Username;
     }
 }
