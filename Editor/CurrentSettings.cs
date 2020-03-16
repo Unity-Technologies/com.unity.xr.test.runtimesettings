@@ -18,5 +18,6 @@ namespace com.unity.xr.test.runtimesettings
         public string XrManagementRevision;
         public string DeviceRuntimeVersion;
         public string Username;
+        public string RenderPipeline;
     }
 }
