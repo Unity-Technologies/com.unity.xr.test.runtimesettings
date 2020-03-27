@@ -19,5 +19,6 @@ namespace com.unity.xr.test.runtimesettings
         public string DeviceRuntimeVersion;
         public string Username;
         public string RenderPipeline;
+        public int AntiAliasing;
     }
 }
