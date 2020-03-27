@@ -20,5 +20,6 @@ namespace com.unity.xr.test.runtimesettings
         public string Username;
         public string RenderPipeline;
         public int AntiAliasing;
+        public string FfrLevel;
     }
 }
