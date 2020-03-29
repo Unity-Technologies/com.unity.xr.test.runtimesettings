@@ -16,10 +16,14 @@ namespace com.unity.xr.test.runtimesettings
         public string PluginVersion;
         public string XrsdkRevision;
         public string XrManagementRevision;
+        public string PerfTestsPackageRevision;
         public string DeviceRuntimeVersion;
         public string Username;
         public string RenderPipeline;
         public int AntiAliasing;
         public string FfrLevel;
+        public string TestsRevision;
+        public string TestsRevisionDate;
+        public string TestsBranch;
     }
 }
