@@ -26,5 +26,7 @@ namespace com.unity.xr.test.runtimesettings
         public string TestsRevisionDate;
         public string TestsBranch;
         public string AndroidTargetArchitecture;
+        public string UrpPackageVersionInfo;
+        public string HdrpPackageVersionInfo;
     }
 }
